@@ -29,7 +29,6 @@ O projeto faz uso de **MediaPipe Hands**, um modelo pré-treinado de detecção 
 ![Mutado](https://github.com/user-attachments/assets/b5272472-1603-4b06-a68d-383a299c6b90)
 ![Controle Volume](https://github.com/user-attachments/assets/72db81f9-d11e-4fb1-84f4-a0a9f5d76c7d)
 
-##🎥 Vídeo
-
+## 🎥  Vídeo
 https://github.com/user-attachments/assets/69bb9f8c-ebbc-482d-b9ce-0900f14b0ae4
 
