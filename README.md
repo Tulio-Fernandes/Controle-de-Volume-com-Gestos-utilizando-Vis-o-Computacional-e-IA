@@ -24,15 +24,6 @@ O projeto faz uso de **MediaPipe Hands**, um modelo pré-treinado de detecção 
 - MediaPipe– Para rastreamento e reconhecimento de mão.
 - pycaw– Para controle do volume no Windows.
 - Python 3.8+
-
-## 💻 Instalação e Execução
-
-### 1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/controle-volume-gestos.git
-cd controle-volume-gestos
-
 ## 📸 Imagens e Vídeo da Aplicação em Funcionamento
 ![Som Ativo](https://github.com/user-attachments/assets/a07fd8af-c896-41ef-8c18-2b3f2fbc3d22)
 ![Mutado](https://github.com/user-attachments/assets/b5272472-1603-4b06-a68d-383a299c6b90)
